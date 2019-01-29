@@ -1,6 +1,13 @@
 body{
-        font-size: 24px;
-        font-family: 'ZCOOL KuaiLe', cursive;
-        background-color: Red;
-        color: Purple;
-        }
+  font-family: 'ZCOOL KuaiLe', cursive;
+ background-color:gold;
+ 
+}
+
+h1{
+  color: purple;
+}
+
+header{
+  color:lightblue;
+}
